@@ -2,7 +2,21 @@
 
 Access Smart is a revolutionary smart door lock that combines motion detection technology and a 4-digit PIN entry system for enhanced security and convenience. This project report provides insights into its specifications, features, assembly instructions, and testing methodologies.
 
+
+
+<div align="center">
+  <a href="https://github.com/sithija-vihanga/Motion-Detection-Door-Lock/assets/116638289/a954cdd1-04aa-4a93-a124-b1647b821518">
+    <img src="https://github.com/sithija-vihanga/Motion-Detection-Door-Lock/assets/116638289/a954cdd1-04aa-4a93-a124-b1647b821518" alt="Image 1" width="400"/>
+  </a>
+  <a href="https://github.com/sithija-vihanga/Motion-Detection-Door-Lock/assets/116638289/baeaff62-b7b3-4b20-9fbe-9ba9ac5b796d">
+    <img src="https://github.com/sithija-vihanga/Motion-Detection-Door-Lock/assets/116638289/baeaff62-b7b3-4b20-9fbe-9ba9ac5b796d" alt="Image 2" width="400"/>
+  </a>
+</div>
+
+
+
 ## Abstract
+
 
 Access Smart is a groundbreaking smart door lock that redefines access control for both homes and businesses. This innovative security solution seamlessly integrates motion detection technology and a 4-digit PIN entry system, providing robust security and convenience. With continuous AC power and a reliable Li-ion battery backup, Access Smart operates flawlessly in any situation. The standout feature is its GSM SIM 900A module, allowing real-time SMS alerts for suspicious activities near the door. This report covers specifications, Bill of Materials (BoM), schematics, SolidWorks designs, and more, making Access Smart the ideal solution for modern access control needs.
 
@@ -70,13 +84,59 @@ For detailed assembly instructions and testing procedures, please refer to the [
  
 </table>
 
+## PCB-Design
+
+
+<div align="center">
+  <a href="https://github.com/sithija-vihanga/Motion-Detection-Door-Lock/assets/116638289/617d1b62-6401-47f7-aab8-b14efe2582e4">
+    <img src="https://github.com/sithija-vihanga/Motion-Detection-Door-Lock/assets/116638289/617d1b62-6401-47f7-aab8-b14efe2582e4" alt="Image 1" width="300"/>
+  </a>
+  <a href="https://github.com/sithija-vihanga/Motion-Detection-Door-Lock/assets/116638289/75c37d61-a14a-433e-931d-eac69ed96c83">
+    <img src="https://github.com/sithija-vihanga/Motion-Detection-Door-Lock/assets/116638289/75c37d61-a14a-433e-931d-eac69ed96c83" alt="Image 2" width="300"/>
+  </a>
+  <a href="https://github.com/sithija-vihanga/Motion-Detection-Door-Lock/assets/116638289/a294f43c-3b7f-41c9-a379-642b3d2e740c">
+    <img src="https://github.com/sithija-vihanga/Motion-Detection-Door-Lock/assets/116638289/a294f43c-3b7f-41c9-a379-642b3d2e740c" alt="Image 3" width="300"/>
+  </a>
+</div>
+
 
 ## Solidworks Design
 
-![Screenshot 2023-07-22 110040](https://github.com/sithija-vihanga/Motion-Detection-Door-Lock/assets/116638289/7449ecb6-f5ca-4ba5-8e76-e4704d8df172)
-![Screenshot 2023-07-22 105947](https://github.com/sithija-vihanga/Motion-Detection-Door-Lock/assets/116638289/8038393a-3e27-4574-94a8-9115b9612055)
-![Screenshot 2023-07-22 110332](https://github.com/sithija-vihanga/Motion-Detection-Door-Lock/assets/116638289/9feb5a9c-0473-42e9-8e31-26115e73f358)
-![Screenshot 2023-07-22 110221](https://github.com/sithija-vihanga/Motion-Detection-Door-Lock/assets/116638289/021b66cf-a933-4240-a657-117ee0a4700b)
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/sithija-vihanga/Motion-Detection-Door-Lock/assets/116638289/7449ecb6-f5ca-4ba5-8e76-e4704d8df172">
+        <img src="https://github.com/sithija-vihanga/Motion-Detection-Door-Lock/assets/116638289/7449ecb6-f5ca-4ba5-8e76-e4704d8df172" alt="Image 1" width="300"/>
+      </a>
+      <br />
+      Image 1
+    </td>
+    <td align="center">
+      <a href="https://github.com/sithija-vihanga/Motion-Detection-Door-Lock/assets/116638289/8038393a-3e27-4574-94a8-9115b9612055">
+        <img src="https://github.com/sithija-vihanga/Motion-Detection-Door-Lock/assets/116638289/8038393a-3e27-4574-94a8-9115b9612055" alt="Image 2" width="300"/>
+      </a>
+      <br />
+      Image 2
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/sithija-vihanga/Motion-Detection-Door-Lock/assets/116638289/9feb5a9c-0473-42e9-8e31-26115e73f358">
+        <img src="https://github.com/sithija-vihanga/Motion-Detection-Door-Lock/assets/116638289/9feb5a9c-0473-42e9-8e31-26115e73f358" alt="Image 3" width="300"/>
+      </a>
+      <br />
+      Image 3
+    </td>
+    <td align="center">
+      <a href="https://github.com/sithija-vihanga/Motion-Detection-Door-Lock/assets/116638289/021b66cf-a933-4240-a657-117ee0a4700b">
+        <img src="https://github.com/sithija-vihanga/Motion-Detection-Door-Lock/assets/116638289/021b66cf-a933-4240-a657-117ee0a4700b" alt="Image 4" width="300"/>
+      </a>
+      <br />
+      Image 4
+    </td>
+  </tr>
+</table>
 
 
 ## Testing and Validation
@@ -84,8 +144,6 @@ For detailed assembly instructions and testing procedures, please refer to the [
 Refer to the [Testing and validating functionality](#testing-and-validating-functionality) section in the project report PDF for testing procedures.
 
 ## License
-
-This project is licensed under the [MIT License](link-to-license).
 
 For more details, please read the complete project report provided in the repository.
 
