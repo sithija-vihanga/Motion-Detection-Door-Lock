@@ -1,0 +1,6 @@
+DRC Rules Export File for PCB: C:\Users\Sithija\Documents\motion_detection_door_lock - V03\PCB1.PcbDoc
+RuleKind=Width|RuleName=WidthPOW|Scope=Board|Minimum=39.37
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=19.69
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=19.69
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
