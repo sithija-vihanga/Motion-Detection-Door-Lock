@@ -33,17 +33,20 @@ For detailed assembly instructions and testing procedures, please refer to the [
 
 ## Schematics and Designs
 
-![Schematics](link-to-schematics-image)
-![SolidWorks Designs](link-to-solidworks-image)
+<div align="center">
+    <img src="https://github.com/sithija-vihanga/Motion-Detection-Door-Lock/assets/116638289/c917862b-291f-4ac9-ad59-d2e63189d771" alt="Schematics" width="400"/>
+    <img src="https://github.com/sithija-vihanga/Motion-Detection-Door-Lock/assets/116638289/85c1b217-390d-44d3-b0bd-173bbbe9d299" alt="SolidWorks Design" width="400"/>
+</div>
 
-![Screenshot 2023-07-22 113144](https://github.com/sithija-vihanga/Motion-Detection-Door-Lock/assets/116638289/c917862b-291f-4ac9-ad59-d2e63189d771)
+<div align="center">
+    <img src="https://github.com/sithija-vihanga/Motion-Detection-Door-Lock/assets/116638289/3c5293ef-08f0-4463-aaf7-4a20a470f573" alt="Image 1" width="400"/>
+    <img src="https://github.com/sithija-vihanga/Motion-Detection-Door-Lock/assets/116638289/dda05f63-1226-4be6-8466-62b0edfdb50d" alt="Image 2" width="400"/>
+</div>
 
-![Screenshot 2023-07-22 113123](https://github.com/sithija-vihanga/Motion-Detection-Door-Lock/assets/116638289/85c1b217-390d-44d3-b0bd-173bbbe9d299)
-![Screenshot 2023-07-22 113024](https://github.com/sithija-vihanga/Motion-Detection-Door-Lock/assets/116638289/3c5293ef-08f0-4463-aaf7-4a20a470f573)
-
-![Screenshot 2023-07-22 112920](https://github.com/sithija-vihanga/Motion-Detection-Door-Lock/assets/116638289/dda05f63-1226-4be6-8466-62b0edfdb50d)
-![Screenshot 2023-07-22 112741](https://github.com/sithija-vihanga/Motion-Detection-Door-Lock/assets/116638289/f0f6ea68-b733-4446-af39-6be0ff5c8cae)
-![Screenshot 2023-07-22 112350](https://github.com/sithija-vihanga/Motion-Detection-Door-Lock/assets/116638289/8332f495-fe43-4de6-bbc3-3e63cedccf04)
+<div align="center">
+    <img src="https://github.com/sithija-vihanga/Motion-Detection-Door-Lock/assets/116638289/f0f6ea68-b733-4446-af39-6be0ff5c8cae" alt="Image 3" width="400"/>
+    <img src="https://github.com/sithija-vihanga/Motion-Detection-Door-Lock/assets/116638289/8332f495-fe43-4de6-bbc3-3e63cedccf04" alt="Image 4" width="400"/>
+</div>
 
 ## Testing and Validation
 
