@@ -33,20 +33,51 @@ For detailed assembly instructions and testing procedures, please refer to the [
 
 ## Schematics and Designs
 
-<div align="center">
-    <img src="https://github.com/sithija-vihanga/Motion-Detection-Door-Lock/assets/116638289/c917862b-291f-4ac9-ad59-d2e63189d771" alt="Schematics" width="400"/>
-    <img src="https://github.com/sithija-vihanga/Motion-Detection-Door-Lock/assets/116638289/85c1b217-390d-44d3-b0bd-173bbbe9d299" alt="SolidWorks Design" width="400"/>
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/sithija-vihanga/Motion-Detection-Door-Lock/assets/116638289/c917862b-291f-4ac9-ad59-d2e63189d771">
+        <img src="https://github.com/sithija-vihanga/Motion-Detection-Door-Lock/assets/116638289/c917862b-291f-4ac9-ad59-d2e63189d771" alt="Schematics" width="300"/>
+      </a>
+      <br />
+      Micro-controller
+    </td>
+    <td align="center">
+      <a href="https://github.com/sithija-vihanga/Motion-Detection-Door-Lock/assets/116638289/85c1b217-390d-44d3-b0bd-173bbbe9d299">
+        <img src="https://github.com/sithija-vihanga/Motion-Detection-Door-Lock/assets/116638289/85c1b217-390d-44d3-b0bd-173bbbe9d299" alt="SolidWorks Design" width="300"/>
+      </a>
+      <br />
+      Output-Sensors
+    </td>
+    <td align="center">
+      <a href="https://github.com/sithija-vihanga/Motion-Detection-Door-Lock/assets/116638289/3c5293ef-08f0-4463-aaf7-4a20a470f573">
+        <img src="https://github.com/sithija-vihanga/Motion-Detection-Door-Lock/assets/116638289/3c5293ef-08f0-4463-aaf7-4a20a470f573" alt="Image 1" width="300"/>
+      </a>
+      <br />
+      Input-Sensors
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/sithija-vihanga/Motion-Detection-Door-Lock/assets/116638289/dda05f63-1226-4be6-8466-62b0edfdb50d">
+        <img src="https://github.com/sithija-vihanga/Motion-Detection-Door-Lock/assets/116638289/dda05f63-1226-4be6-8466-62b0edfdb50d" alt="Image 2" width="300"/>
+      </a>
+      <br />
+      Power-Supply
+    </td>
+   
+  </tr>
+ 
+</table>
 
-<div align="center">
-    <img src="https://github.com/sithija-vihanga/Motion-Detection-Door-Lock/assets/116638289/3c5293ef-08f0-4463-aaf7-4a20a470f573" alt="Image 1" width="400"/>
-    <img src="https://github.com/sithija-vihanga/Motion-Detection-Door-Lock/assets/116638289/dda05f63-1226-4be6-8466-62b0edfdb50d" alt="Image 2" width="400"/>
-</div>
 
-<div align="center">
-    <img src="https://github.com/sithija-vihanga/Motion-Detection-Door-Lock/assets/116638289/f0f6ea68-b733-4446-af39-6be0ff5c8cae" alt="Image 3" width="400"/>
-    <img src="https://github.com/sithija-vihanga/Motion-Detection-Door-Lock/assets/116638289/8332f495-fe43-4de6-bbc3-3e63cedccf04" alt="Image 4" width="400"/>
-</div>
+## Solidworks Design
+
+![Screenshot 2023-07-22 110040](https://github.com/sithija-vihanga/Motion-Detection-Door-Lock/assets/116638289/7449ecb6-f5ca-4ba5-8e76-e4704d8df172)
+![Screenshot 2023-07-22 105947](https://github.com/sithija-vihanga/Motion-Detection-Door-Lock/assets/116638289/8038393a-3e27-4574-94a8-9115b9612055)
+![Screenshot 2023-07-22 110332](https://github.com/sithija-vihanga/Motion-Detection-Door-Lock/assets/116638289/9feb5a9c-0473-42e9-8e31-26115e73f358)
+![Screenshot 2023-07-22 110221](https://github.com/sithija-vihanga/Motion-Detection-Door-Lock/assets/116638289/021b66cf-a933-4240-a657-117ee0a4700b)
+
 
 ## Testing and Validation
 
