@@ -149,4 +149,3 @@ For more details, please read the complete project report provided in the reposi
 
 ---
 
-**Note**: This README is a simplified version based on the content you provided. Make sure to replace placeholders like "link-to-schematics-image", "link-to-solidworks-image", and "link-to-license" with actual links.
